@@ -1,17 +1,17 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio repository!
 
 This repository is a collection of data analytics projects that demonstrate my skills in data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization using Python.
 
-## Repository Objectives
+## 🎯 Repository Objectives
 
 * Perform data cleaning and preprocessing on real-world datasets.
 * Explore datasets to discover meaningful patterns and insights.
 * Create compelling visualizations for effective data storytelling.
 * Build a strong portfolio showcasing practical data analytics skills.
 
-## Technologies & Libraries Used
+## 🛠️ Technologies & Libraries Used
 
 * Python
 * Pandas
@@ -21,22 +21,21 @@ This repository is a collection of data analytics projects that demonstrate my s
 * Plotly
 * Jupyter Notebook
 
-##  Project Categories
+## 📂 Project Categories
 
-###  Data Cleaning & Preprocessing
+### 🧹 Data Cleaning & Preprocessing
 
 Projects focused on handling missing values, removing duplicates, treating outliers, and transforming data for analysis.
 
-###  Exploratory Data Analysis (EDA)
+### 📈 Exploratory Data Analysis (EDA)
 
 Projects involving statistical summaries, trend analysis, and insight generation from datasets.
 
-###  Data Visualization
+### 📊 Data Visualization
 
 Projects showcasing visual storytelling through charts, graphs, and dashboards.
 
-
-##  Key Skills Demonstrated
+## 📌 Key Skills Demonstrated
 
 ✔ Data Cleaning
 ✔ Data Preprocessing
@@ -45,9 +44,9 @@ Projects showcasing visual storytelling through charts, graphs, and dashboards.
 ✔ Statistical Analysis
 ✔ Data Storytelling
 
-##  Connect With Me
+## 🤝 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/tajveer-singh](http://www.linkedin.com/in/tajveer-singh)
 * GitHub: https://github.com/TajDataLab
 
- Feel free to explore the projects and provide feedback!
+⭐ Feel free to explore the projects and provide feedback!
