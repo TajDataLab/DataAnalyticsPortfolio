@@ -1,32 +1,53 @@
-# Netflix Data Cleaning Project
+# Data Analytics Portfolio
 
-## Project Overview
-This project focuses on cleaning and preprocessing the Netflix Movies and TV Shows dataset.
+Welcome to my Data Analytics Portfolio repository!
 
-## Objectives
-- Handle missing values
-- Remove duplicates
-- Convert data types
-- Clean and standardize text columns
+This repository is a collection of data analytics projects that demonstrate my skills in data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization using Python.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
+## Repository Objectives
 
-## Dataset
-Netflix Movies and TV Shows Dataset
+* Perform data cleaning and preprocessing on real-world datasets.
+* Explore datasets to discover meaningful patterns and insights.
+* Create compelling visualizations for effective data storytelling.
+* Build a strong portfolio showcasing practical data analytics skills.
 
-## Data Cleaning Steps
-1. Handling missing values
-2. Removing duplicate records
-3. Standardizing text
-4. Converting date columns
-5. Feature engineering
+## Technologies & Libraries Used
 
-## Final Output
-A cleaned dataset ready for analysis and visualization.
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebook
 
-## Author
-Tajveer Singh
+##  Project Categories
+
+###  Data Cleaning & Preprocessing
+
+Projects focused on handling missing values, removing duplicates, treating outliers, and transforming data for analysis.
+
+###  Exploratory Data Analysis (EDA)
+
+Projects involving statistical summaries, trend analysis, and insight generation from datasets.
+
+###  Data Visualization
+
+Projects showcasing visual storytelling through charts, graphs, and dashboards.
+
+
+##  Key Skills Demonstrated
+
+✔ Data Cleaning
+✔ Data Preprocessing
+✔ Exploratory Data Analysis (EDA)
+✔ Data Visualization
+✔ Statistical Analysis
+✔ Data Storytelling
+
+##  Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/tajveer-singh](http://www.linkedin.com/in/tajveer-singh)
+* GitHub: https://github.com/TajDataLab
+
+ Feel free to explore the projects and provide feedback!
