@@ -46,7 +46,7 @@ Projects showcasing visual storytelling through charts, graphs, and dashboards.
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/tajveer-singh](http://www.linkedin.com/in/tajveer-singh)
+* LinkedIn: [www.linkedin.com/in/tajveer-singh-133939202]
 * GitHub: https://github.com/TajDataLab
 
 ⭐ Feel free to explore the projects and provide feedback!
